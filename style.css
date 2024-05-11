@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;    
+}
+h1 {
+    text-align: center;
+    background-color: aqua;
+    border: 3px solid black;
+}
+div h3 {
+    text-align: center;
+    margin-top: 10px;
+}
+.first {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+    padding: 100px;
+    gap: 50px;
+}
+.btn {
+    height: 100px;
+    width: 100px;
+}
+#purple {
+    background-color: purple;
+    border: 2px solid black;
+}
+#grey {
+    background-color: gray;
+    border: 2px solid black;
+}
+#red {
+    background-color: red;
+    border: 2px solid black;
+}
+#pink {
+    background-color: pink;
+    border: 2px solid black;
+}
